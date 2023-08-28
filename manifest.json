@@ -1,0 +1,16 @@
+{
+    "name": "Woolies extension",
+    "version": "1.0.0",
+    "description": "blah blah",
+    "manifest_version": 3,
+    "author": "Haritha Denuwan",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": ""
+    },
+    "permissions": [
+        "tabs",
+        "clipboardRead",
+        "clipboardWrite"
+    ]
+}

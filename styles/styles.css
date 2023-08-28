@@ -1,0 +1,45 @@
+/* * {
+    margin: 5px;
+} */
+
+.container {
+    height: 400px;
+    width: 400px;
+}
+
+/* .container-2 {
+    height: 380px;
+    width: 380px;
+    border: 2px solid black;
+    margin: 20px;
+} */
+
+.buttonSpace {
+    display: none;
+}
+
+.button {
+    width: 150px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    /* padding: 10px; */
+    padding-left: 20px;
+}
+
+.textCenter {
+    /* display: flex; */
+    text-align: center;
+    padding: 10px;
+    padding-top: 40px;
+}
+
+#articleCode {
+    cursor: pointer;
+}
